@@ -23,3 +23,4 @@ pib_paises_2$var_pib_total_ajust <- as.numeric(pib_paises_2$var_pib_total)
 
 summary(pib_paises_2$var_pib_capita_ajust)
 summary(pib_paises_2$var_pib_total_ajust)
+
